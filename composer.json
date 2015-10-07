@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "behat/behat": "~2.4.6"
+        "behat/behat": "^2.4.6"
     },
     "autoload": {
         "psr-0": { "Zodyac\\Behat\\ExtensibleHtmlFormatter": "src/" }
